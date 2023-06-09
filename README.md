@@ -8,14 +8,14 @@ Built my omnifood landing page, based on <a href="#" class="footer__link">Jonas 
             your own design. A credit to the original author, Jonas Schmedtmann,
             is of course highly appreciated!
 
-This site consists of the following sections:
-1- <strong>Section-Hero</strong>
-2- <strong>Section-Featured</strong>
-3- <strong>Section-How it works</strong>
-4- <strong>Section-Meals</strong>
-5- <strong>Section-Testimonial</strong>
-6- <strong>Section-Pricing</strong>
-7- <strong>Section-CTA</strong>
-8- <strong>Footer</strong>
+This site consists of the following sections:</br>
+1- <strong>Section-Hero</strong></br>
+2- <strong>Section-Featured</strong></br>
+3- <strong>Section-How it works</strong></br>
+4- <strong>Section-Meals</strong></br>
+5- <strong>Section-Testimonial</strong></br>
+6- <strong>Section-Pricing</strong></br>
+7- <strong>Section-CTA</strong></br>
+8- <strong>Footer</strong></br>
 
 <strong>This site is fully responsive and you can easily use it on different devices.</strong>
